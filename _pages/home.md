@@ -2,6 +2,7 @@
 layout: home
 permalink: /home/
 hidden: true
+author_profile: true
 header:
   overlay_color: "#5e616c"
   overlay_image: "https://images.hdqwalls.com/download/otherworld-5e-2560x1700.jpg"
