@@ -21,47 +21,8 @@ toc: true
 
 ### Lyrics
 
-> Love from a distance,
-Breaking like dishes
-Look at the big old mess we made
-
-I've come to fix it
-Pick up the pieces
-Before you throw em all away
-
-No matter where u are you know that I'll come running for you
-I wishing hard on shooting stars ya know I'm hoping for you
-I swear to god these other broads got nothing on you
-And when ever you need it....
-
-Hook
-
-I'll pick up the Pieces
-Pick up the Pieces
-When he breaks your heart and your left in the dark, I'll be there
-To pick up the pieces
-
-Verse 2
-
-Love from a distance
-Say you don't miss this
-Hopping it all just fades away
-
-I'm steady sinking
-Jumped in the deep end
-You watch as the waves pull me away
-
-No matter where u are you know that I'll come running for you
-I wishing hard on shooting stars ya know I'm hoping for you
-I swear to god these other broads got nothing on you
-And when ever you need it....
-
-Hook
-
-I'll pick up the Pieces
-Pick up the Pieces
-When he breaks your heart and your left in the dark, I'll be there
-To pick up the pieces.
+> Love from a distance, Breaking like dishes Look at the big old mess we made I've come to fix it Pick up the pieces
+Before you throw em all away No matter where u are you know that I'll come running for you I wishing hard on shooting stars ya know I'm hoping for you I swear to god these other broads got nothing on you And when ever you need it.... I'll pick up the Pieces Pick up the Pieces When he breaks your heart and your left in the dark, I'll be there To pick up the pieces Love from a distance Say you don't miss this Hopping it all just fades away I'm steady sinking Jumped in the deep end You watch as the waves pull me away No matter where u are you know that I'll come running for you I wishing hard on shooting stars ya know I'm hoping for you I swear to god these other broads got nothing on you And when ever you need it.... I'll pick up the Pieces Pick up the Pieces When he breaks your heart and your left in the dark, I'll be there To pick up the pieces.  
 
 > <cite>By Dor Azaria and Broderick Jones</cite>
 
