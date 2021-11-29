@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
@@ -10,3 +8,5 @@ main:
     url: /tags/
   - title: "סיכומים"
     url: /summaries/
+  - title: "About"
+    url: /about/
