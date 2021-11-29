@@ -2,6 +2,12 @@
 layout: archive
 ---
 
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
 {{ content }}
 
         <p style="font-size: 80%;"> 🎓 I’m a B.Sc. student at the Department of Computer Science and Mathematics in Ariel University. </p>
