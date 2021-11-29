@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: 
+permalink: /
 hidden: true
 author_profile: true
 header:
