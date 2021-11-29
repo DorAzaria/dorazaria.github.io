@@ -8,5 +8,7 @@ main:
     url: /tags/
   - title: "סיכומים"
     url: /summaries/
+  - title: "Music"
+    url: /music/
   - title: "About"
     url: /about/
