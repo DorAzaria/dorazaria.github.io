@@ -27,7 +27,7 @@ The goal is to find a subset of edges that will create a tree which contains all
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yldkh0aOEcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Steps
--   create a forest  $F$  (a set of trees), where each vertex in the graph is a separate tree
+-   create a forest  $F$ (a set of trees), where each vertex in the graph is a separate tree
 -   create a set  $S$  containing all the edges in the graph
 -   while  $S$  is  nonempty and  $F$  is not yet  spanning
     -   remove an edge with minimum weight from  $S$
@@ -38,7 +38,7 @@ At the termination of the algorithm, the forest forms a minimum spanning forest 
 ### Time Complexity
 Time complexity mostly affected by sorting the edges at the beginning of the algorithm.
 * In graph $G=(V,E)$  the time complexity is $O(|E| \cdot \log |V|)$.
-* If the edges of $G$ are pre-sorted then the time complexity is $O(|E| \cdot \alpha( |V|))$ and $\alpha$ is the Ackermann function which measured as $\alpha(n)≅O(1)$.
+* If the edges of $G$ are pre-sorted then the time complexity is $ O(|E| \cdot \alpha (|V|) ) $ and $ \alpha $ is the Ackermann function which measured as $ \alpha (n) ≅ O(1)$.
 
 
 
