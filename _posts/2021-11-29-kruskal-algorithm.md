@@ -34,14 +34,14 @@ The goal is to find a subset of edges that will create a tree which contains all
     -   if the removed edge connects two different trees then add it to the forest  $F$, combining two trees into a single tree
 
 check one $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
-check one $O(|E| \cdot \alpha (|V|))$
+check one 
 
 At the termination of the algorithm, the forest forms a minimum spanning forest of the graph. If the graph is connected, the forest has a single component and forms a minimum spanning tree.
 
 ### Time Complexity
 Time complexity mostly affected by sorting the edges at the beginning of the algorithm.
-* In graph $G=(V,E)$ the time complexity is $$O(|E| \cdot \log |V|)$$
-* If the edges of $G$ are pre-sorted then the time complexity is $O(|E|\cdot\alpha(|V|))$ and $\alpha$ is the Ackermann function which measured as $\alpha(n)≅O(1)$.
+* In graph $G=(V,E)$ the time complexity is $O(|E| \cdot \log |V|)$
+* If the edges of $G$ are pre-sorted then the time complexity is $O(|E| \cdot \alpha (|V|))$ and $ \alpha $ is the Ackermann function which measured as $ \alpha (n)≅O(1)$.
 
 
 
