@@ -37,7 +37,7 @@ At the termination of the algorithm, the forest forms a minimum spanning forest 
 
 ### Time Complexity
 Time complexity mostly affected by sorting the edges at the beginning of the algorithm.
-* In graph $G=(V,E)$ the time complexity is $O(|E|\cdot\log|V|)$
+* In graph $G=(V,E)$ the time complexity is $$O(|E| \cdot \log |V|)$$
 * If the edges of $G$ are pre-sorted then the time complexity is $O(|E|\cdot\alpha(|V|))$ and $\alpha$ is the Ackermann function which measured as $\alpha(n)≅O(1)$.
 
 
