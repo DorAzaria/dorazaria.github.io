@@ -7,9 +7,9 @@ read_time: true
 show_date: true
 related: true
 header:
-  teaser: "https://www.shell.com/inside-energy/smooth-moves-in-space/_jcr_content/par/pageHeader/image.img.960.jpeg/1458555814845/satellite-in-the-rays-of-light.jpeg?imformat=chrome&imwidth=1280"
-  image: "https://www.shell.com/inside-energy/smooth-moves-in-space/_jcr_content/par/pageHeader/image.img.960.jpeg/1458555814845/satellite-in-the-rays-of-light.jpeg?imformat=chrome&imwidth=1280"
-  og_image: "https://www.shell.com/inside-energy/smooth-moves-in-space/_jcr_content/par/pageHeader/image.img.960.jpeg/1458555814845/satellite-in-the-rays-of-light.jpeg?imformat=chrome&imwidth=1280"
+  teaser: "https://www.10wallpaper.com/wallpaper/1366x768/1606/Internet_Business_Technology_HD_Wallpaper_16_1366x768.jpg"
+  image: "https://www.10wallpaper.com/wallpaper/1366x768/1606/Internet_Business_Technology_HD_Wallpaper_16_1366x768.jpg"
+  og_image: "https://www.10wallpaper.com/wallpaper/1366x768/1606/Internet_Business_Technology_HD_Wallpaper_16_1366x768.jpg"
 categories:
   - Network
 tags:
