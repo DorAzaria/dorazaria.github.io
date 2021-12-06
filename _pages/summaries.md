@@ -4,6 +4,7 @@ permalink: /summaries/
 title: "סיכומים"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 last_modified_at: 2021-11-29T10:23:16-04:00
+author_profile: true
 toc: true
 ---
 
