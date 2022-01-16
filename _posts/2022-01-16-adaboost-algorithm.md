@@ -10,6 +10,7 @@ header:
   teaser: "https://cpb-us-w2.wpmucdn.com/blog.uwgb.edu/dist/c/16/files/2019/04/brain-exercise1.jpg"
   image: "https://cpb-us-w2.wpmucdn.com/blog.uwgb.edu/dist/c/16/files/2019/04/brain-exercise1.jpg"
   og_image: "https://cpb-us-w2.wpmucdn.com/blog.uwgb.edu/dist/c/16/files/2019/04/brain-exercise1.jpg"
+  categories:
   - Machine Learning
 tags:
   - MachineLearning
