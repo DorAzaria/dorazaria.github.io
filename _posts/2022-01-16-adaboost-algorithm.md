@@ -256,110 +256,7 @@ Running 100 iterations asking for 8 last strong rules.
 learn_data = AdaboostAlgorithm(data_frame)
 important_lines, results = learn_data.learn(8,100)
 ```
-
-    Iterations 0
-    Iterations 1
-    Iterations 2
-    Iterations 3
-    Iterations 4
-    Iterations 5
-    Iterations 6
-    Iterations 7
-    Iterations 8
-    Iterations 9
-    Iterations 10
-    Iterations 11
-    Iterations 12
-    Iterations 13
-    Iterations 14
-    Iterations 15
-    Iterations 16
-    Iterations 17
-    Iterations 18
-    Iterations 19
-    Iterations 20
-    Iterations 21
-    Iterations 22
-    Iterations 23
-    Iterations 24
-    Iterations 25
-    Iterations 26
-    Iterations 27
-    Iterations 28
-    Iterations 29
-    Iterations 30
-    Iterations 31
-    Iterations 32
-    Iterations 33
-    Iterations 34
-    Iterations 35
-    Iterations 36
-    Iterations 37
-    Iterations 38
-    Iterations 39
-    Iterations 40
-    Iterations 41
-    Iterations 42
-    Iterations 43
-    Iterations 44
-    Iterations 45
-    Iterations 46
-    Iterations 47
-    Iterations 48
-    Iterations 49
-    Iterations 50
-    Iterations 51
-    Iterations 52
-    Iterations 53
-    Iterations 54
-    Iterations 55
-    Iterations 56
-    Iterations 57
-    Iterations 58
-    Iterations 59
-    Iterations 60
-    Iterations 61
-    Iterations 62
-    Iterations 63
-    Iterations 64
-    Iterations 65
-    Iterations 66
-    Iterations 67
-    Iterations 68
-    Iterations 69
-    Iterations 70
-    Iterations 71
-    Iterations 72
-    Iterations 73
-    Iterations 74
-    Iterations 75
-    Iterations 76
-    Iterations 77
-    Iterations 78
-    Iterations 79
-    Iterations 80
-    Iterations 81
-    Iterations 82
-    Iterations 83
-    Iterations 84
-    Iterations 85
-    Iterations 86
-    Iterations 87
-    Iterations 88
-    Iterations 89
-    Iterations 90
-    Iterations 91
-    Iterations 92
-    Iterations 93
-    Iterations 94
-    Iterations 95
-    Iterations 96
-    Iterations 97
-    Iterations 98
-    Iterations 99
     
-
-
 ```python
 plt.title("Train Errors VS Test Errors")
 plt.plot(results[:, 0], label="Test Errors")
@@ -373,7 +270,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![png](https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/adaboost/adaboost.png?raw=true)
     
 
 
