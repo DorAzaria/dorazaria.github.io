@@ -8,7 +8,6 @@ header:
   og_image: "https://images.hdqwalls.com/download/otherworld-5e-2560x1700.jpg"
 last_modified_at: 2021-11-29T10:23:16-04:00
 author_profile: true
-toc: true
 ---
 
 
