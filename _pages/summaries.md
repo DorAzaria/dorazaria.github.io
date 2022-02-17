@@ -7,15 +7,13 @@ header:
   teaser: "https://images.hdqwalls.com/download/otherworld-5e-2560x1700.jpg"
   og_image: "https://images.hdqwalls.com/download/otherworld-5e-2560x1700.jpg"
 last_modified_at: 2022-02-16T10:23:16-04:00
+sidebar:
+  - title: "סיכומים"
+    image: "https://search-education.com/wp-content/uploads/2021/12/CAT-Books-350x250.jpg"
+    image_alt: "image"
+    text: "סיכומים למדעי המחשב - אוניברסיטת אריאל"
 author_profile: true
 toc: false
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
 ---
 
 | קישור | עמודים | קורס |
