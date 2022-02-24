@@ -49,6 +49,7 @@ vectors_set = pd.read_table('vectors.txt',header=None, index_col=False, delimite
     * getError returns the error which is the less voted label between the two.
 
 
+
 ```python
 class Node:
     
