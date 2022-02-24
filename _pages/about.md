@@ -8,9 +8,9 @@ read_time: true
 show_date: true
 related: true
 header:
-  teaser: "https://weblium.com/blog/wp-content/uploads/2021/05/19-Best-About-Me-Page-Examples-and-How-to-Write-a-Killer-About-Me-Page-1-1-1.png"
-  image: "https://weblium.com/blog/wp-content/uploads/2021/05/19-Best-About-Me-Page-Examples-and-How-to-Write-a-Killer-About-Me-Page-1-1-1.png"
-  og_image: "https://weblium.com/blog/wp-content/uploads/2021/05/19-Best-About-Me-Page-Examples-and-How-to-Write-a-Killer-About-Me-Page-1-1-1.png"
+  teaser: "https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/covers/about.png?raw=true"
+  image: "https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/covers/about.png?raw=true"
+  og_image: "https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/covers/about.png?raw=true"
 comments: true
 share: true
 related: true
