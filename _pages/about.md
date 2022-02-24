@@ -3,14 +3,14 @@ permalink: /about/
 title: "About"
 excerpt: "About Dor Azaria"
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
+  - url: https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg
+    image_path: https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg
     alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
+  - url: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
+    image_path: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
     alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
+  - url: https://static.boredpanda.com/blog/wp-content/uploads/2014/01/animal-children-photography-elena-shumilova-2.jpg
+    image_path: https://static.boredpanda.com/blog/wp-content/uploads/2014/01/animal-children-photography-elena-shumilova-2.jpg
     alt: "archive layout example"
 last_modified_at: 2021-05-11T10:23:16-04:00
 toc: true
