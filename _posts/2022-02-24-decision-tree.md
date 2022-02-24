@@ -1,5 +1,5 @@
 ---
-title:  "Decision Tree Algorithm - Python"
+title:  "Decision Tree Algorithm"
 layout: single
 date:   2022-02-24 19:30:54
 author_profile: true
@@ -24,7 +24,6 @@ toc: true
 toc_sticky: true
 usemathjax: true
 ---
-
 Decision tree learning or induction of decision trees is one of the predictive modelling approaches used in statistics, data mining and machine learning. 
 It uses a decision tree (as a predictive model) to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves).
 
