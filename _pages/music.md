@@ -3,6 +3,10 @@ layout: single
 permalink: /music/
 title: "Music"
 excerpt: "Daza Music Portfolio"
+header:
+  teaser: "https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/covers/music.png?raw=true"
+  image: "https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/covers/music.png?raw=true"
+  og_image: "https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/covers/music.png?raw=true"
 last_modified_at: 2021-11-29T10:23:16-04:00
 author_profile: true
 toc: true
