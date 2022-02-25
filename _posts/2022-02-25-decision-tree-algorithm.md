@@ -10,13 +10,13 @@ header:
   teaser: "https://miro.medium.com/max/750/1*xmZis4W43nLXwDJLwOCRcA.png"
   image: "https://miro.medium.com/max/750/1*xmZis4W43nLXwDJLwOCRcA.png"
   og_image: "https://miro.medium.com/max/750/1*xmZis4W43nLXwDJLwOCRcA.png"
-  categories:
-  - Python
-tags:
+categories:
   - MachineLearning
-  - Science
+tags:
   - Python
   - DataScience
+  - MachineLearning
+  - Algorithm
 comments: true
 share: true
 related: true
