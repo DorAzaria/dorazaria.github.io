@@ -10,9 +10,13 @@ header:
   og_image: "https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/covers/%D7%A1%D7%99%D7%9B%D7%95%D7%9E%D7%99%D7%9D.png?raw=true"
 last_modified_at: 2022-02-16T10:23:16-04:00
 author_profile: true
+comments: true
+share: true
 toc: false
 ---
 
+<div align="center">
+  
 | קישור | עמודים | קורס |
 |:----:|:----:|:----:|
 | [לצפייה](https://github.com/DorAzaria/dorazaria.github.io/raw/main/assets/summaries/%D7%93%D7%97%D7%99%D7%A1%D7%AA%20%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D%20%D7%90'%20-%20%D7%9E%D7%97%D7%91%D7%A8%D7%AA%20%D7%94%D7%A8%D7%A6%D7%90%D7%95%D7%AA.pdf){:target="\_blank"} | 135 | דחיסת נתונים א - הרצאות |
@@ -28,6 +32,8 @@ toc: false
 | [לצפייה](https://github.com/DorAzaria/dorazaria.github.io/raw/main/assets/summaries/%D7%9E%D7%97%D7%91%D7%A8%D7%AA%20%D7%AA%D7%A8%D7%92%D7%95%D7%9C%20%D7%9C%D7%9E%D7%91%D7%97%D7%9F%20%D7%91%D7%90%D7%A8%D7%9B%D7%99%D7%98%D7%A7%D7%98%D7%95%D7%A8%D7%94.pdf){:target="\_blank"} | 101 | ארכיטקטורה |
 | [לצפייה](https://github.com/DorAzaria/dorazaria.github.io/raw/main/assets/summaries/%D7%93%D7%A3%20%D7%A0%D7%95%D7%A1%D7%97%D7%90%D7%95%D7%AA%20-%20%D7%94%D7%A1%D7%AA%D7%91%D7%A8%D7%95%D7%AA%202.pdf){:target="\_blank"} | 2 | הסתברות 2 - דף נוסחאות |
 
+</div>
+ 
 <hr/>
 
 <a href="https://bit.ly/ArielCSDrive" target="_blank">
