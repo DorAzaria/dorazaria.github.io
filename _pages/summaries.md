@@ -28,12 +28,15 @@ toc: false
 | [לצפייה](https://github.com/DorAzaria/dorazaria.github.io/raw/main/assets/summaries/%D7%9E%D7%97%D7%91%D7%A8%D7%AA%20%D7%AA%D7%A8%D7%92%D7%95%D7%9C%20%D7%9C%D7%9E%D7%91%D7%97%D7%9F%20%D7%91%D7%90%D7%A8%D7%9B%D7%99%D7%98%D7%A7%D7%98%D7%95%D7%A8%D7%94.pdf){:target="\_blank"} | 101 | ארכיטקטורה |
 | [לצפייה](https://github.com/DorAzaria/dorazaria.github.io/raw/main/assets/summaries/%D7%93%D7%A3%20%D7%A0%D7%95%D7%A1%D7%97%D7%90%D7%95%D7%AA%20-%20%D7%94%D7%A1%D7%AA%D7%91%D7%A8%D7%95%D7%AA%202.pdf){:target="\_blank"} | 2 | הסתברות 2 - דף נוסחאות |
 
-<hr></hr>
+<hr/>
 
- [![](https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/summaries/drive.png?raw=true)](https://bit.ly/ArielCSDrive){"target="\_blank:}
+<a href="https://bit.ly/ArielCSDrive" target="_blank">
+  <img border="0" align="center" src="https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/summaries/drive.png?raw=true"/>
+</a>
 
-<hr></hr>
 
- [![](https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/summaries/aguda%20books.png?raw=true)](https://sua.co.il/product-category/%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%90%d7%92%d7%95%d7%93%d7%94/){"target="\_blank:}
+<hr/>
 
-{: style="text-align: center;"}
+<a href="https://sua.co.il/product-category/%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%90%d7%92%d7%95%d7%93%d7%94/" target="_blank">
+  <img border="0" align="center" src="https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/summaries/aguda%20books.png?raw=true"/>
+</a>
