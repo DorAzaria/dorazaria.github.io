@@ -1269,3 +1269,8 @@ pd.set_option('display.max_rows', df.shape[0]+1)
 res = pd.concat([cases_mix, cases_pred], axis=1)
 res.iloc[:,[1,11,12,19,20]]
 ```
+
+
+![](https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/spotify/Slide11.PNG?raw=true)
+
+![](https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/spotify/Slide16.PNG?raw=true)
