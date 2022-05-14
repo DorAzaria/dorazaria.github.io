@@ -1274,19 +1274,3 @@ res.iloc[:,[1,11,12,19,20]]
 ![](https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/spotify/Slide11.PNG?raw=true)
 
 ![](https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/spotify/Slide16.PNG?raw=true)
-
-
-
-אלף בית גימל
-
-אלף בית גימל
-{: style="text-align: right;"}
-
-אלף בית גימל
-
-אלף בית גימל
-{: style="text-align: right;"}
- 
- fcada
- 
- אלף בית גימל
