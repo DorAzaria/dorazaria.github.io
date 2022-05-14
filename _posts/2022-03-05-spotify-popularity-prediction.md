@@ -1279,12 +1279,13 @@ res.iloc[:,[1,11,12,19,20]]
 
 אלף בית גימל
 
-אלף בית גימל {: style="text-align: left;"}
+אלף בית גימל
+{: style="text-align: right;"}
 
 אלף בית גימל
 
-אלף בית גימל {: style="text-align: left;"}
- 
+אלף בית גימל
+{: style="text-align: right;"}
  
  fcada
  
