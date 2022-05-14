@@ -7,9 +7,9 @@ read_time: true
 show_date: true
 related: true
 header:
-  teaser: "https://miro.medium.com/max/1400/1*BHzGVskWGS_3jEcYYi6miQ.png"
-  image: "https://miro.medium.com/max/1400/1*BHzGVskWGS_3jEcYYi6miQ.png"
-  og_image: "https://miro.medium.com/max/1400/1*BHzGVskWGS_3jEcYYi6miQ.png"
+  teaser: "https://www.denofgeek.com/wp-content/uploads/2014/07/transformers-main.jpg?resize=640%2C380"
+  image: "https://www.denofgeek.com/wp-content/uploads/2014/07/transformers-main.jpg?resize=640%2C380"
+  og_image: "https://www.denofgeek.com/wp-content/uploads/2014/07/transformers-main.jpg?resize=640%2C380"
 categories:
   - MachineLearning
 tags:
