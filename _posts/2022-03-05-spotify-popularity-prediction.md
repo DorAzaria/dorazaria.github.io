@@ -1277,15 +1277,15 @@ res.iloc[:,[1,11,12,19,20]]
 
 
 
-בדיקה בדיקה בדיקה
+אלף בית גימל
 
-בדיקה בדיקה בדיקה {: style="text-align: right;"}
+אלף בית גימל {: style="text-align: left;"}
 
-בסדייר
+אלף בית גימל
 
-החבדחשל {: style="text-align: right;"}
+אלף בית גימל {: style="text-align: left;"}
  
  
  fcada
  
- שדגשדש
+ אלף בית גימל
