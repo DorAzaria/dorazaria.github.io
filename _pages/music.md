@@ -38,6 +38,15 @@ Before you throw em all away No matter where u are you know that I'll come runni
 
 <iframe src="https://open.spotify.com/embed/track/0wNjKFEScHMcULQFbGRPb9?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-## Daza - ID (Coming soon)
+> During my childhood when I was only 10, my mama said, live your life as you want to and dream. So I took my notebook, and started writing a song about a man, with no expectations. could it be my final song? And all I'm breathing is the breeze of life. I can almost feel it like it's the first time. But now I'm here, standing strong and clear, and I'm not gonna fail this time - This is the anthem of my fight. Flashbacks slip in front of me of the lonely kid in town, carrying a bag full of dreams  through the streets. As he grows up with it his dreams start coming true, while years go by, he still is the greatful kid at his parents' home. All I'm breathing is the breeze of life, I can almost feel it like it's the first time. But now I'm here, standing strong and clear, and I know I'm not gonna fail this time. This is the anthem of my fight.
+
+> <cite>By Dor Azaria and Barbara Olfers</cite>
+
+
+## Daza - Crazy Days (ft. Otto Palmborg) (Summer 2022 Release)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1YsDVYfAR6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> I got way too many people tryna put me through the test. Oh, I live the race of innovation and I cannot stop. All the madness of the hasty views and the media of today. If you let go for a while you’ll see that all will be ok. Throw all your doubt into the fire now and watch it fade away. Cus’ all that’s left is to calm down in these crazy days. In these crazy days. In these crazy days. The craft is full of challenges, time is running out. Oh I’ll keep the ashes for the weekends by wishing for the stars. All the pursuit of the company on the pandemic days. It will end quickly and then you'll see it all will be ok. Throw all your doubt into the fire now and watch it fade away. Cus’ all that’s left is to calm down in these crazy days. Throw all your doubt into the fire now. In these crazy days. Throw all your doubt into the fire now. Throw all your doubts away. Throw all your doubt into the fire now. In these crazy days. In these crazy days. In these crazy days. In these crazy days.
+
+> <cite>By Dor Azaria and Otto Palmborg</cite>
