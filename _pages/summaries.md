@@ -8,7 +8,7 @@ header:
   teaser: "https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/covers/%D7%A1%D7%99%D7%9B%D7%95%D7%9E%D7%99%D7%9D.png?raw=true"
   image: "https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/covers/%D7%A1%D7%99%D7%9B%D7%95%D7%9E%D7%99%D7%9D.png?raw=true"
   og_image: "https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/covers/%D7%A1%D7%99%D7%9B%D7%95%D7%9E%D7%99%D7%9D.png?raw=true"
-last_modified_at: 2022-02-16T10:23:16-04:00
+last_modified_at: 2022-06-02T10:23:16-04:00
 author_profile: true
 comments: true
 share: true
