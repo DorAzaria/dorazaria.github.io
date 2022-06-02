@@ -49,6 +49,6 @@ toc: false
   <img border="0" align="center" src="https://raw.githubusercontent.com/DorAzaria/dorazaria.github.io/main/assets/images/summaries/aguda.jpg"/>
 </a>
 
-את הספרים הסתברות 2 (מבחנים) והסתברות 2 (סיכום) ניתן להזמין כעת רק מאתר easycopy בלבד [בקישור הבא](https://easycopy.co.il/cart.asp?cat=-451812419).
+את הספרים הסתברות 2 (מבחנים) והסתברות 2 (סיכום) ניתן להזמין כעת רק מאתר איזי-קופי בלבד [בקישור הבא](https://easycopy.co.il/cart.asp?cat=-451812419).
 {: style="text-align: right;"}
 
