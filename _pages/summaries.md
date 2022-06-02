@@ -34,15 +34,20 @@ toc: false
 | [לצפייה](https://github.com/DorAzaria/dorazaria.github.io/raw/main/assets/summaries/%D7%93%D7%A3%20%D7%A0%D7%95%D7%A1%D7%97%D7%90%D7%95%D7%AA%20-%20%D7%94%D7%A1%D7%AA%D7%91%D7%A8%D7%95%D7%AA%202.pdf){:target="\_blank"} | 2 | הסתברות 2 - דף נוסחאות |
 
  
+ 
+ 
+ 
 <hr/>
 
 <a href="https://bit.ly/ArielCSDrive" target="_blank">
   <img border="0" align="center" src="https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/summaries/drive.png?raw=true"/>
 </a>
 
-
 <hr/>
 
 <a href="https://sua.co.il/product-category/%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%90%d7%92%d7%95%d7%93%d7%94/" target="_blank">
   <img border="0" align="center" src="https://raw.githubusercontent.com/DorAzaria/dorazaria.github.io/main/assets/images/summaries/aguda.jpg"/>
 </a>
+
+את הספרים הסתברות 2 (מבחנים) והסתברות 2 (סיכום) ניתן להזמין כעת רק מאתר easycopy בלבד ![בקישור הבא]("https://easycopy.co.il/cart.asp?cat=-451812419").
+{: style="text-align: right;"}
