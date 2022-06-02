@@ -44,5 +44,5 @@ toc: false
 <hr/>
 
 <a href="https://sua.co.il/product-category/%d7%97%d7%95%d7%91%d7%a8%d7%95%d7%aa-%d7%90%d7%92%d7%95%d7%93%d7%94/" target="_blank">
-  <img border="0" align="center" src="[https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/summaries/aguda%20books.png?raw=true](https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/summaries/aguda.jpg?raw=true)"/>
+  <img border="0" align="center" src="https://raw.githubusercontent.com/DorAzaria/dorazaria.github.io/main/assets/images/summaries/aguda.jpg"/>
 </a>
